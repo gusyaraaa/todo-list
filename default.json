@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "admin",
+    "mongoUri": "mongodb+srv://bekker:Rjdjlb61827@cluster0.lp1pv.mongodb.net/april-test-reborn?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
